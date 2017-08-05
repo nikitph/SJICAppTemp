@@ -95,7 +95,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   slider: {
-    marginBottom: 30,
+    marginBottom: 31,
     height:300
   },
   sliderContainer: {
